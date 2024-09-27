@@ -1,1 +1,1 @@
-# Open-AI-with-langchain
+# Geemini AI model Text to Image Generation
